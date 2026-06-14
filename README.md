@@ -507,13 +507,6 @@ hydra -l root -P wordlist ssh://<target> -t 4  # SSH brute force (→ Wazuh)
 
 ---
 
-## Full Documentation
-
-See **[docs/LIGHTHOUSE_FULL_DOCUMENTATION.md](docs/LIGHTHOUSE_FULL_DOCUMENTATION.md)** for
-complete architecture diagrams, the full feature mapping, risk-scoring examples, the deployment
-guide, and the threshold-calibration methodology.
-
----
 
 <div align="center">
 
